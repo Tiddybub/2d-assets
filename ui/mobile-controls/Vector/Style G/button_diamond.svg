@@ -1,0 +1,8 @@
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs/>
+  <g>
+    <path stroke="none" fill="#878798" fill-opacity="0.2" d="M57.65 31.95 L57.7 31.95 32.05 6.4 32 6.4 6.35 32 32.05 57.65 57.65 32 57.65 31.95 M36.25 2.15 L61.9 27.7 Q66.15 32 61.9 36.25 L36.25 61.9 Q32 66.15 27.75 61.85 L2.1 36.25 Q0.2 34.35 0 32.45 -0.25 30.05 2.1 27.7 L27.75 2.1 Q30.1 -0.25 32.45 0.05 34.35 0.25 36.25 2.15"/>
+    <path stroke="none" fill="#878798" fill-opacity="0.09803921568627451" d="M57.65 31.95 L57.65 32 32.05 57.65 6.35 32 32 6.4 32.05 6.4 57.7 31.95 57.65 31.95"/>
+    <path fill="none" stroke="#878798" stroke-width="1" stroke-opacity="0.4" stroke-linecap="round" stroke-linejoin="round" d="M57.65 31.95 L57.65 32 32.05 57.65 6.35 32 32 6.4 32.05 6.4 57.7 31.95 57.65 31.95"/>
+  </g>
+</svg>

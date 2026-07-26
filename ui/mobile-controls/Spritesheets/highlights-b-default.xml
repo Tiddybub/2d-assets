@@ -1,0 +1,28 @@
+<TextureAtlas imagePath="highlights-b-default.png">
+	<SubTexture name="button_bean_highlight" x="260" y="428" width="64" height="42"/>
+	<SubTexture name="button_circle_highlight" x="392" y="396" width="64" height="64"/>
+	<SubTexture name="button_circle_wide_highlight" x="130" y="130" width="128" height="64"/>
+	<SubTexture name="button_diamond_highlight" x="392" y="264" width="64" height="64"/>
+	<SubTexture name="button_diamond_highlight_wide" x="0" y="390" width="128" height="64"/>
+	<SubTexture name="button_hexagon_highlight" x="424" y="132" width="58" height="64"/>
+	<SubTexture name="button_hexagon_wide_highlight" x="260" y="66" width="128" height="64"/>
+	<SubTexture name="button_square_highlight" x="390" y="0" width="64" height="64"/>
+	<SubTexture name="button_square_wide_highlight" x="260" y="0" width="128" height="64"/>
+	<SubTexture name="direction_left_highlight" x="326" y="362" width="64" height="64"/>
+	<SubTexture name="direction_right_highlight" x="326" y="296" width="64" height="64"/>
+	<SubTexture name="dpad_element_east_highlight" x="326" y="230" width="64" height="64"/>
+	<SubTexture name="dpad_element_north_highlight" x="260" y="362" width="64" height="64"/>
+	<SubTexture name="dpad_element_south_highlight" x="392" y="330" width="64" height="64"/>
+	<SubTexture name="dpad_element_west_highlight" x="392" y="198" width="64" height="64"/>
+	<SubTexture name="dpad_highlight" x="0" y="130" width="128" height="128"/>
+	<SubTexture name="dpad_separate_highlight" x="130" y="326" width="128" height="128"/>
+	<SubTexture name="dpad_small_highlight" x="260" y="132" width="96" height="96"/>
+	<SubTexture name="joystick_circle_nub_highlight" x="260" y="230" width="64" height="64"/>
+	<SubTexture name="joystick_circle_pad_highlight" x="130" y="196" width="128" height="128"/>
+	<SubTexture name="joystick_hexagon_nub_highlight" x="260" y="296" width="64" height="64"/>
+	<SubTexture name="joystick_hexagon_pad_highlight" x="130" y="0" width="128" height="128"/>
+	<SubTexture name="joystick_polygon_nub_highlight" x="358" y="132" width="64" height="64"/>
+	<SubTexture name="joystick_polygon_pad_highlight" x="0" y="260" width="128" height="128"/>
+	<SubTexture name="joystick_square_nub_highlight" x="390" y="66" width="64" height="64"/>
+	<SubTexture name="joystick_square_pad_highlight" x="0" y="0" width="128" height="128"/>
+</TextureAtlas>

@@ -1,0 +1,30 @@
+<svg width="128" height="128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="-819.2" x2="819.2" spreadMethod="pad" gradientTransform="matrix(0 0.078125 -0.078125 0 64 64)" id="gradient0">
+      <stop offset="0" stop-color="#A27FF7"/>
+      <stop offset="1" stop-color="#6238C6"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="-819.2" x2="819.2" spreadMethod="pad" gradientTransform="matrix(0 0.078125 -0.078125 0 64 64)" id="gradient0">
+      <stop offset="0" stop-color="#A27FF7"/>
+      <stop offset="1" stop-color="#6238C6"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="-819.2" x2="819.2" spreadMethod="pad" gradientTransform="matrix(0 0.078125 -0.078125 0 64 64)" id="gradient0">
+      <stop offset="0" stop-color="#A27FF7"/>
+      <stop offset="1" stop-color="#6238C6"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="-819.2" x2="819.2" spreadMethod="pad" gradientTransform="matrix(0 0.078125 -0.078125 0 64 64)" id="gradient0">
+      <stop offset="0" stop-color="#A27FF7"/>
+      <stop offset="1" stop-color="#6238C6"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <path stroke="none" fill="url(#gradient0)" d="M83 122 L83 94.3 64 75.3 45 94.3 45 122 83 122 M40.75 90.05 L59.75 71.05 Q61.5 69.3 64 69.3 66.5 69.3 68.25 71.05 L87.25 90.05 Q89 91.8 89 94.3 L89 122 Q89 124.5 87.25 126.25 85.5 128 83 128 L45 128 Q42.5 128 40.75 126.25 39 124.5 39 122 L39 94.3 Q39 91.8 40.75 90.05"/>
+    <path fill="none" stroke="#CFBFF7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M83 122 L45 122 45 94.3 64 75.3 83 94.3 83 122"/>
+    <path stroke="none" fill="url(#gradient0)" d="M94.3 39 L122 39 Q124.5 39 126.25 40.75 128 42.5 128 45 L128 83 Q128 85.5 126.25 87.25 124.5 89 122 89 L94.3 89 Q91.8 89 90.05 87.25 L71.05 68.25 Q69.3 66.5 69.3 64 69.3 61.5 71.05 59.75 L90.05 40.75 Q91.8 39 94.3 39 M122 45 L94.3 45 75.3 64 94.3 83 122 83 122 45"/>
+    <path fill="none" stroke="#CFBFF7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M122 45 L122 83 94.3 83 75.3 64 94.3 45 122 45"/>
+    <path stroke="none" fill="url(#gradient0)" d="M89 6 L89 33.7 Q89 36.2 87.25 37.95 L68.25 56.95 Q66.5 58.7 64 58.7 61.5 58.7 59.75 56.95 L40.75 37.95 Q39 36.2 39 33.7 L39 6 Q39 3.5 40.75 1.75 42.5 0 45 0 L83 0 Q85.5 0 87.25 1.75 89 3.5 89 6 M45 6 L45 33.7 64 52.7 83 33.7 83 6 45 6"/>
+    <path fill="none" stroke="#CFBFF7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M45 6 L83 6 83 33.7 64 52.7 45 33.7 45 6"/>
+    <path stroke="none" fill="url(#gradient0)" d="M6 39 L33.7 39 Q36.2 39 37.95 40.75 L56.95 59.75 Q58.7 61.5 58.7 64 58.7 66.5 56.95 68.25 L37.95 87.25 Q36.2 89 33.7 89 L6 89 Q3.5 89 1.75 87.25 0 85.5 0 83 L0 45 Q0 42.5 1.75 40.75 3.5 39 6 39 M6 45 L6 83 33.7 83 52.7 64 33.7 45 6 45"/>
+    <path fill="none" stroke="#CFBFF7" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" d="M6 45 L33.7 45 52.7 64 33.7 83 6 83 6 45"/>
+  </g>
+</svg>

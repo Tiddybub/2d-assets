@@ -1,0 +1,17 @@
+<svg width="32" height="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="-819.2" x2="819.2" spreadMethod="pad" gradientTransform="matrix(0.0077667236328125 0.0077667236328125 -0.0017242431640625 0.0017242431640625 17.9 8)" id="gradient0">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#CCCCCC"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="-819.2" x2="819.2" spreadMethod="pad" gradientTransform="matrix(0.007110595703125 0.007110595703125 -0.0017242431640625 0.0017242431640625 16 26.4)" id="gradient1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#CCCCCC"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <path stroke="none" fill="url(#gradient0)" d="M9 8 L8 8 Q7.6 8 7.3 7.7 7 7.4 7 7 L7 5 Q7 4.6 7.3 4.3 7.6 4 8 4 L24 4 Q24.4 4 24.7 4.3 L25 5 25 7 24.7 7.7 24.1 8 23 8 9 8"/>
+    <path stroke="none" fill="#FFFFFF" d="M9 8 L23 8 23 8.05 Q22.75 11.5 20.95 14.05 20.1 15.3 19.1 16 20.1 16.7 20.95 17.95 22.75 20.55 23 24 L9.05 24 Q9.25 20.55 11.05 17.95 11.9 16.7 12.9 16 11.9 15.3 11.05 14.05 9.25 11.5 9.05 8.05 L9 8"/>
+    <path stroke="none" fill="url(#gradient1)" d="M23 24 L24.1 24 Q24.4 24 24.7 24.3 L25 25 25 27 24.7 27.7 24 28 8 28 Q7.6 28 7.3 27.7 7 27.4 7 27 L7 25 Q7 24.6 7.3 24.3 7.6 24 8 24 L9.05 24 23 24"/>
+  </g>
+</svg>

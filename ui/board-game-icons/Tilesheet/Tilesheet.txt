@@ -1,0 +1,10 @@
+Tilesheet information:
+
+Tile size                 •  64px × 64px
+Tile size (double)        •  128px × 128px
+Space between tiles       •  0px × 0px
+---
+Total tiles (horizontal)  •  21 tiles
+Total tiles (vertical)    •  13 tiles
+---
+Total tiles in sheet      •  255 tiles

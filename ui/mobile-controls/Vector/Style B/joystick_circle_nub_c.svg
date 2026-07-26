@@ -1,0 +1,17 @@
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="-819.2" x2="819.2" spreadMethod="pad" gradientTransform="matrix(0 -0.0390625 -0.0390625 0 32 32)" id="gradient0">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#D8E6E9"/>
+    </linearGradient>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="-819.2" x2="819.2" spreadMethod="pad" gradientTransform="matrix(0 0.0390625 -0.0390625 0 32 32)" id="gradient1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#D8E6E9"/>
+    </linearGradient>
+  </defs>
+  <g>
+    <path stroke="none" fill="url(#gradient0)" d="M32 61 Q20 61 11.5 52.5 3 44 3 32 3 20 11.5 11.5 20 3 32 3 44 3 52.5 11.5 61 20 61 32 61 44 52.5 52.5 44 61 32 61"/>
+    <path stroke="none" fill="url(#gradient1)" d="M32 61 Q44 61 52.5 52.5 61 44 61 32 61 20 52.5 11.5 44 3 32 3 20 3 11.5 11.5 3 20 3 32 3 44 11.5 52.5 20 61 32 61 M64 32 Q64 45.25 54.6 54.6 45.25 64 32 64 18.75 64 9.35 54.6 0 45.25 0 32 0 18.75 9.35 9.35 18.75 0 32 0 45.25 0 54.6 9.35 64 18.75 64 32"/>
+    <path fill="none" stroke="#FFFFFF" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" d="M32 61 Q44 61 52.5 52.5 61 44 61 32 61 20 52.5 11.5 44 3 32 3 20 3 11.5 11.5 3 20 3 32 3 44 11.5 52.5 20 61 32 61"/>
+  </g>
+</svg>
