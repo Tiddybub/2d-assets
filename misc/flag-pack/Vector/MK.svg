@@ -1,0 +1,16 @@
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs/>
+  <g>
+    <path stroke="none" fill="#EC2037" d="M64 64 L0 64 0 0 64 0 64 64"/>
+    <path stroke="none" fill="#FCC920" d="M56 64 L32 32 64 56 64 64 56 64"/>
+    <path stroke="none" fill="#FCC920" d="M8 0 L32 32 0 8 0 0 8 0"/>
+    <path stroke="none" fill="#FCC920" d="M8 64 L0 64 0 56 32 32 8 64"/>
+    <path stroke="none" fill="#FCC920" d="M56 0 L64 0 64 8 32 32 56 0"/>
+    <path stroke="none" fill="#FCC920" d="M64 24 L64 40 32 32 64 24"/>
+    <path stroke="none" fill="#FCC920" d="M0 24 L32 32 0 40 0 24"/>
+    <path stroke="none" fill="#FCC920" d="M24 0 L40 0 32 32 24 0"/>
+    <path stroke="none" fill="#FCC920" d="M24 64 L32 32 40 64 24 64"/>
+    <path stroke="none" fill="#EC2037" d="M32 16 Q38.6 16 43.3 20.65 L43.35 20.7 Q48 25.4 48 32 48 38.6 43.35 43.3 L43.3 43.35 Q38.6 48 32 48 25.4 48 20.7 43.35 L20.65 43.3 Q16 38.6 16 32 16 25.4 20.65 20.7 L20.7 20.65 Q25.4 16 32 16 M44 32 Q44 27.05 40.5 23.5 36.95 20 32 20 27.05 20 23.5 23.5 20 27.05 20 32 20 36.95 23.5 40.5 27.05 44 32 44 36.95 44 40.5 40.5 44 36.95 44 32"/>
+    <path stroke="none" fill="#FCC920" d="M44 32 Q44 36.95 40.5 40.5 36.95 44 32 44 27.05 44 23.5 40.5 20 36.95 20 32 20 27.05 23.5 23.5 27.05 20 32 20 36.95 20 40.5 23.5 44 27.05 44 32"/>
+  </g>
+</svg>

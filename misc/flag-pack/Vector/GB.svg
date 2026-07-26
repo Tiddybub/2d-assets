@@ -1,0 +1,12 @@
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs/>
+  <g>
+    <path stroke="none" fill="#3439CB" d="M4 0 L64 0 64 60 4 0 M0 64 L0 4 60 64 0 64"/>
+    <path stroke="none" fill="#EC2037" d="M60 64 L0 4 0 0 4 0 64 60 64 64 60 64"/>
+    <path stroke="none" fill="#EEEEF7" d="M60 64 L56 64 0 8 0 4 60 64 M4 0 L8 0 64 56 64 60 4 0"/>
+    <path stroke="none" fill="#EC2037" d="M4 64 L0 64 0 60 60 0 64 0 64 4 4 64"/>
+    <path stroke="none" fill="#EEEEF7" d="M4 64 L64 4 64 8 8 64 4 64 M0 60 L0 56 56 0 60 0 0 60"/>
+    <path stroke="none" fill="#EEEEF7" d="M64 26 L38 26 38 0 42 0 42 22 64 22 64 26 M26 0 L26 26 0 26 0 22 22 22 22 0 26 0 M0 38 L26 38 26 64 22 64 22 42 0 42 0 38 M38 64 L38 38 64 38 64 42 42 42 42 64 38 64"/>
+    <path stroke="none" fill="#EC2037" d="M38 64 L26 64 26 38 0 38 0 26 26 26 26 0 38 0 38 26 64 26 64 38 38 38 38 64"/>
+  </g>
+</svg>

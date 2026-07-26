@@ -1,0 +1,9 @@
+<svg width="64" height="64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs/>
+  <g>
+    <path stroke="none" fill="#F36925" d="M0 19 L0 0 64 0 64 19 0 19"/>
+    <path stroke="none" fill="#EEEEF7" d="M0 19 L64 19 64 45 0 45 0 19"/>
+    <path stroke="none" fill="#259F6C" d="M64 45 L64 64 0 64 0 45 64 45"/>
+    <path stroke="none" fill="#F36925" d="M40 32 Q40 35.3 37.65 37.65 35.3 40 32 40 28.7 40 26.35 37.65 24 35.3 24 32 24 28.7 26.35 26.35 28.7 24 32 24 35.3 24 37.65 26.35 40 28.7 40 32"/>
+  </g>
+</svg>
