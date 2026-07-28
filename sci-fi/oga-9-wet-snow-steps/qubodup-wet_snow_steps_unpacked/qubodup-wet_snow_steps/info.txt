@@ -1,0 +1,9 @@
+Recorded by Iwan "qubodup" Gabovitch some lousy winter 2008/2009 in Berlin, Germany.
+
+Cut into sounds by the same for opengameart.org and parpg.net in August 2009.
+
+These sounds are very quiet and you will have to normalize them using for example Audacity <http://www.audacity.sf.net/> or Sox <http://sox.sf.net> (for Sox see "Sox script for normalizing and converting mp3 & wav files to an Asterisk friendly format" <http://www.voip-info.org/wiki/view/sox>)
+
+Also note that the sounds have a sample rate of 96000, this might cause problems with some soundcards and should be cut down to 44100 I guess.
+
+Do what you want with them or see the license as "Public Domain Dedication" or "CC0".

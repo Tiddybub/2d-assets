@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="24"
+   height="24"
+   id="svg2">
+  <defs
+     id="defs4" />
+  <g
+     transform="translate(-96,-1028.3622)"
+     id="layer1">
+    <path
+       d="m 103,1028.3622 0,2 -5,0 0,5 -2,0 0,10 2,0 0,5 5,0 0,2 10,0 0,-2 5,0 0,-5 2,0 0,-10 -2,0 0,-5 -5,0 0,-2 -10,0 z"
+       id="path3007"
+       style="fill:#57553c;fill-opacity:1;stroke:none" />
+    <path
+       d="m 104,1029.3622 0,2 -5,0 0,5 -2,0 0,8 2,0 0,5 5,0 0,2 8,0 0,-2 5,0 0,-5 2,0 0,-8 -2,0 0,-5 -5,0 0,-2 -8,0 z"
+       id="path3009"
+       style="fill:#111111;fill-opacity:1;stroke:none" />
+    <path
+       d="m 111,1030.3622 -6,0 0,5 6,0 0,-5 z"
+       id="path3811"
+       style="fill:#ff04bb;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <path
+       d="m 116,1032.3622 -3,0 0,3 3,0 0,-3 z"
+       id="path3813"
+       style="fill:#04f4ff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <path
+       d="m 103,1045.3622 -3,0 0,3 3,0 0,-3 z"
+       id="path3815"
+       style="fill:#04f4ff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <path
+       d="m 116,1045.3622 0,3 -3,0 0,-3 3,0 z"
+       id="path3817"
+       style="fill:#f6ff04;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <path
+       d="m 103,1032.3622 0,3 -3,0 0,-3 3,0 z"
+       id="path3819"
+       style="fill:#f6ff04;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <path
+       d="m 103,1037.3622 0,6 -4.999999,0 0,-6 4.999999,0 z"
+       id="path3821"
+       style="fill:#56ff04;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <path
+       d="m 118,1037.3622 0,6 -5,0 0,-6 5,0 z"
+       id="path3823"
+       style="fill:#56ff04;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <path
+       d="m 111,1045.3622 -6,0 0,5 6,0 0,-5 z"
+       id="path3825"
+       style="fill:#ff04bb;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <path
+       d="m 107,1037.3622 0,6 -2,0 0,-6 2,0 z"
+       id="path3827"
+       style="fill:#f6ff04;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <path
+       d="m 111,1037.3622 -2,0 0,6 2,0 0,-6 z"
+       id="path3829"
+       style="fill:#04f4ff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+  </g>
+</svg>

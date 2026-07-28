@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="512"
+   height="512"
+   id="svg2"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="asteroid1_grey.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="480"
+     id="namedview4239"
+     showgrid="false"
+     inkscape:zoom="0.50195312"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient4033">
+      <stop
+         id="stop4035"
+         style="stop-color:#ffff00;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop4037"
+         style="stop-color:#ff1900;stop-opacity:0"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3825">
+      <stop
+         id="stop3827"
+         style="stop-color:#464646;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3783"
+         style="stop-color:#0c0c0c;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       cx="249.12029"
+       cy="794.53381"
+       r="230.00259"
+       fx="249.12029"
+       fy="794.53381"
+       id="radialGradient3955"
+       xlink:href="#linearGradient3825"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.98672371,0,-529.81372)" />
+    <radialGradient
+       cx="266.9328"
+       cy="264.15909"
+       r="136.82516"
+       fx="266.9328"
+       fy="264.15909"
+       id="radialGradient4041"
+       xlink:href="#linearGradient4033"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.90180874,0,25.938114)" />
+    <filter
+       x="-0.2"
+       y="-0.2"
+       width="1.4"
+       height="1.4"
+       color-interpolation-filters="sRGB"
+       id="filter4067">
+      <feTurbulence
+         result="result91"
+         type="fractalNoise"
+         numOctaves="5"
+         baseFrequency="0.05"
+         id="feTurbulence4069" />
+      <feDisplacementMap
+         in2="result91"
+         scale="25"
+         xChannelSelector="R"
+         yChannelSelector="A"
+         in="SourceGraphic"
+         result="result5"
+         id="feDisplacementMap4071" />
+      <feComposite
+         in2="result5"
+         operator="atop"
+         in="SourceGraphic"
+         result="fbSourceGraphic"
+         id="feComposite4073" />
+      <feColorMatrix
+         id="feColorMatrix4075"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         in="fbSourceGraphic"
+         result="fbSourceGraphicAlpha" />
+      <feGaussianBlur
+         in="fbSourceGraphic"
+         stdDeviation="3"
+         id="feGaussianBlur4077" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     d="M 48.927646,165.61266 C 76.266553,112.83936 79.417419,50.73713 195.00529,32 462.89805,10.52893 468.425,81.88351 477.56424,111.17788 c 7.46383,52.79397 -43.94254,147.14549 -25.42978,211.40085 0,33.39531 1.47881,164.92379 -194.31669,157.42129 C 191.63542,462.75482 185.46271,434.28354 140.62601,399.43484 85.822534,376.73483 47.550294,396.1327 34,368.50599 20.794616,331.58388 4.7148152,228.39724 48.927646,165.61266 z"
+     id="asteroid"
+     style="fill:url(#radialGradient3955);fill-opacity:1;stroke:#000000;stroke-width:1.62427115px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;visibility:visible" />
+  <path
+     d="m 403.75797,264.15909 a 136.82516,123.39013 0 1 1 -273.65033,0 136.82516,123.39013 0 1 1 273.65033,0 z"
+     transform="matrix(1.7143181,0,0,1.7331264,-212.1696,-211.9704)"
+     id="explosion"
+     style="opacity:0.7;fill:url(#radialGradient4041);fill-opacity:1;fill-rule:nonzero;stroke:none;visibility:hidden;filter:url(#filter4067)" />
+</svg>

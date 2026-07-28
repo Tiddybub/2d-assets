@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="101"
+   height="117"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.1 r9760"
+   sodipodi:docname="heli.svg"
+   inkscape:export-filename="/home/qubodup/heli-all.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.38823529"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="15.127022"
+     inkscape:cy="79.452547"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:showpageshadow="false"
+     showborder="true"
+     inkscape:window-width="1056"
+     inkscape:window-height="1181"
+     inkscape:window-x="0"
+     inkscape:window-y="19"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2816"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       color="#e8e8ff"
+       opacity="0.03137255"
+       empcolor="#999999"
+       empopacity="0.09803922" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-935.3622)">
+    <rect
+       style="fill:#777777;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3929"
+       width="101"
+       height="63"
+       x="0"
+       y="-67"
+       transform="translate(0,1002.3622)" />
+    <path
+       style="fill:#fd017c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 5,1012.3622 c 5,0 -5,25 0,25 5,0 4,-14 5,-15 1,-1 25,0 35,5 10,5 15,20 30,20 15,0 25,-15.6389 25,-20 0,-4.3611 -20,-15 -25,-15 -5,0 -1.541678,-5 -10,-5 -8.458322,0 -14,7 -22,9 -8,2 -32,2 -33,1 -1,-1 2.357023,-7.643 0,-10 -2.3570226,-2.357 -10,-5 -10,0 0,5 0.37587948,5 5,5 z"
+       id="path3841"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czzzzzzzzzzzc"
+       inkscape:export-filename="/home/qubodup/heli-only.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 100,1012.3622 -15,0 -60,-10 z"
+       id="path3848"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/qubodup/heli-only.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 25,1012.3622 75,-10 -65,10 z"
+       id="path3850"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/qubodup/heli-only.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#fd017c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 98,45 c 0,0 1,5 -6,5 -7,0 -37,0 -37,0 0,0 -2.357023,-0.642977 0,-3 2.357023,-2.357023 17,0 17,0 l 0,-3 8,0 -3,3 10,0 c 8,0 11,-2 11,-2 z"
+       id="path3852"
+       inkscape:connector-curvature="0"
+       transform="translate(0,1002.3622)"
+       sodipodi:nodetypes="czczcccccc"
+       inkscape:export-filename="/home/qubodup/heli-only.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 21.40625,20 C 29.30542,20.637207 39.375,22.1875 45,25 51.25,28.125 55.556641,35.166016 61.5625,40 L 89.25,40 C 95.991979,35.028797 100,27.759759 100,25 c 0,-1.271987 -1.715639,-3.07965 -4.25,-5 l -74.34375,0 z"
+       id="rect3854"
+       transform="translate(0,1002.3622)"
+       inkscape:export-filename="/home/qubodup/heli-only.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:connector-curvature="0" />
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#fd017c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+       d="M 21.40625,19 21.375,20 c 7.904045,0.635592 17.992326,2.183663 23.625,5 6.705164,3.352582 11.175123,11.192048 17.90625,16 L 87.8125,41 C 95.41495,36.060287 100,27.949726 100,25 100,23.506253 97.630034,21.286971 94.34375,19 L 21.5,19 21.40625,19 z M 35.5,21 95.375,21 c 1.112263,0.8604 2.06341,1.69405 2.6875,2.40625 C 98.736425,24.17525 99,24.8136 99,25 99,25.8958 98.096621,28.4329 96.3125,31.125 94.572031,33.7513 92.024339,36.6281 88.875,39 L 61.96875,39 C 56.270123,34.3164 51.97009,27.35995 45.4375,24.09375 42.788659,22.76925 39.251575,21.7938 35.5,21 z"
+       id="path3952"
+       transform="translate(0,1002.3622)"
+       inkscape:export-filename="/home/qubodup/heli-only.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#212121;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 75,15 c 5,-5 20,5 20,10 0,5 0,10 -10,15 C 75,45 70,20 75,15 z"
+       id="path3856"
+       inkscape:connector-curvature="0"
+       transform="translate(0,1002.3622)"
+       sodipodi:nodetypes="zzzz"
+       inkscape:export-filename="/home/qubodup/heli-only.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:#212121;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 65,15 c 5,0 5,5 5,10 0,5 5,15 0,15 -5,0 -10,-10 -10,-15 0,-5 0,-10 5,-10 z"
+       id="path3863"
+       inkscape:connector-curvature="0"
+       transform="translate(0,1002.3622)"
+       sodipodi:nodetypes="zzzzz"
+       inkscape:export-filename="/home/qubodup/heli-only.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3905"
+       width="19"
+       height="18.999966"
+       x="1"
+       y="978.36218" />
+    <g
+       id="g3889"
+       inkscape:export-filename="/home/qubodup/heli-only.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path3867"
+         d="m 1,1010.3622 0,4 9,-2 10,2 0,-4 -10,2 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 8.5,1021.8622 4,0 -2,-9 2,-10 -4,0 2,10 z"
+         id="path3869"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3875"
+       width="75"
+       height="10"
+       x="25"
+       y="972.36218" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path3871"
+       d="m 100,977.3622 0,2 -75,-4 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path3873"
+       d="m 54,982.3622 25,-10 -32,10 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <rect
+       y="957.36218"
+       x="25"
+       height="10"
+       width="75"
+       id="rect3877"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 82,957.3622 7,0 -55,10 z"
+       id="path3879"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 78,967.3622 -42,-10 39,10 z"
+       id="path3881"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <rect
+       y="987.36218"
+       x="25"
+       height="10"
+       width="75"
+       id="rect3883"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path3885"
+       d="m 100,997.3622 -15,0 -60,-10 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path3887"
+       d="m 25,997.3622 75,-10 -65,10 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <g
+       id="g3907"
+       transform="matrix(0.8660254,0.5,-0.5,0.8660254,507.58783,105.88058)">
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 1,1010.3622 0,4 9,-2 10,2 0,-4 -10,2 z"
+         id="path3909"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path3911"
+         d="m 8.5,1021.8622 4,0 -2,-9 2,-10 -4,0 2,10 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    </g>
+    <rect
+       y="957.36218"
+       x="1"
+       height="18.999983"
+       width="19"
+       id="rect3913"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <g
+       transform="matrix(-0.8660254,0.5,-0.5,-0.8660254,525.77436,1838.3433)"
+       id="g3915">
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path3917"
+         d="m 1,1010.3622 0,4 9,-2 10,2 0,-4 -10,2 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 8.5,1021.8622 4,0 -2,-9 2,-10 -4,0 2,10 z"
+         id="path3919"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+    </g>
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3921"
+       width="19"
+       height="18.999983"
+       x="1"
+       y="936.36218" />
+    <g
+       id="g3923"
+       transform="matrix(0,-1,1,0,-1001.8622,956.3622)">
+      <path
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 1,1010.3622 0,4 9,-2 10,2 0,-4 -10,2 z"
+         id="path3925"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path3927"
+         d="m 8.5,1021.8622 4,0 -2,-9 2,-10 -4,0 2,10 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    </g>
+  </g>
+</svg>
