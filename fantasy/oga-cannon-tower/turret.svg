@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="99.000015"
+   height="145"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="turret.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0"
+   inkscape:export-filename="/home/qubodup/turret.png"
+   inkscape:export-xdpi="179.64"
+   inkscape:export-ydpi="179.64">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <linearGradient
+       y2="24.336737"
+       x2="226.73624"
+       y1="27.617987"
+       x1="230.4825"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3378"
+       xlink:href="#linearGradient3217"
+       inkscape:collect="always"
+       gradientTransform="translate(86.72711,-30.909688)" />
+    <linearGradient
+       y2="19"
+       x2="228"
+       y1="13"
+       x1="243"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3376"
+       xlink:href="#linearGradient3217"
+       inkscape:collect="always"
+       gradientTransform="translate(86.72711,-30.909688)" />
+    <linearGradient
+       y2="36.8125"
+       x2="206"
+       y1="36.8125"
+       x1="202.1875"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3374"
+       xlink:href="#linearGradient3179"
+       inkscape:collect="always"
+       gradientTransform="translate(86.72711,-30.909688)" />
+    <filter
+       id="filter3309"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur3311"
+         stdDeviation="0.29882813"
+         inkscape:collect="always" />
+    </filter>
+    <filter
+       height="1.1603448"
+       y="-0.080172412"
+       width="1.4769231"
+       x="-0.23846154"
+       id="filter3197"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur3199"
+         stdDeviation="0.36328125"
+         inkscape:collect="always" />
+    </filter>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2391" />
+    <inkscape:perspective
+       id="perspective9"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <linearGradient
+       id="linearGradient3179">
+      <stop
+         id="stop3181"
+         offset="0"
+         style="stop-color:#011600;stop-opacity:1;" />
+      <stop
+         id="stop3183"
+         offset="1"
+         style="stop-color:#0a3608;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3217">
+      <stop
+         id="stop3219"
+         offset="0"
+         style="stop-color:#0a3608;stop-opacity:1;" />
+      <stop
+         id="stop3221"
+         offset="1"
+         style="stop-color:#154812;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3259">
+      <stop
+         style="stop-color:#0a3608;stop-opacity:1;"
+         offset="0"
+         id="stop3261" />
+      <stop
+         style="stop-color:#154812;stop-opacity:0"
+         offset="1"
+         id="stop3263" />
+    </linearGradient>
+    <inkscape:perspective
+       id="perspective2546"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     gridtolerance="10000"
+     guidetolerance="10"
+     objecttolerance="10"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="-45.827646"
+     inkscape:cy="84.581751"
+     inkscape:document-units="px"
+     inkscape:current-layer="g3333"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="951"
+     inkscape:window-x="0"
+     inkscape:window-y="25">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2585"
+       visible="true"
+       enabled="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-264.99998,-295.36218)">
+    <g
+       transform="matrix(0.9820576,0.1885811,-0.1885811,0.9820576,160.33619,195.80444)"
+       id="g3333">
+      <path
+         style="opacity:1;fill:#4a4b4e;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 221.23586,72.131044 L 222.36735,78.02339 L 214.51089,79.532039 L 213.34026,78.738563 L 159.51567,90.092581 L 158.38418,84.200236 L 212.58593,74.810333 L 213.37941,73.639694 L 221.23586,72.131044 z"
+         id="path3361"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:transform-center-x="-31.999997"
+         inkscape:export-filename="/home/qubodup/barrel.png"
+         inkscape:export-xdpi="179.64"
+         inkscape:export-ydpi="179.64" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         transform="matrix(0.9820576,-0.1885811,0.1885811,0.9820576,-194.3844,-162.05487)"
+         id="path3407"
+         d="M 275.00001,328.3622 L 275.00001,323.3622 L 300.00001,320.3622 L 325.00001,323.3622 L 325.00001,328.3622 L 300.00001,325.3622 L 275.00001,328.3622 z"
+         style="opacity:1;fill:#484644;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="/home/qubodup/tower.png"
+         inkscape:export-xdpi="179.64"
+         inkscape:export-ydpi="179.64" />
+      <path
+         style="opacity:1;fill:#636672;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 280,327.36218 L 285,302.36218 L 300.00001,295.36219 L 315,302.36218 L 320,327.36218 L 280,327.36218 z"
+         id="path3359"
+         transform="matrix(0.9820576,-0.1885811,0.1885811,0.9820576,-194.3844,-162.05487)"
+         sodipodi:nodetypes="cccccc"
+         inkscape:export-filename="/home/qubodup/tower.png"
+         inkscape:export-xdpi="179.64"
+         inkscape:export-ydpi="179.64" />
+      <path
+         sodipodi:nodetypes="cccccc"
+         style="opacity:1;fill:#484850;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 180.43772,98.294232 L 171.19007,76.64981 L 156.1212,72.415543 L 162.54013,79.329097 L 170.61715,100.18004 L 180.43772,98.294232 z"
+         id="path3371"
+         inkscape:export-filename="/home/qubodup/tower.png"
+         inkscape:export-xdpi="179.64"
+         inkscape:export-ydpi="179.64" />
+      <path
+         style="opacity:1;fill:#54524d;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 265,437.36218 L 270,327.36218 L 300.00001,324.3622 L 330,327.36218 L 335,437.36218 L 300.00001,440.3622 L 265,437.36218 z"
+         id="path3411"
+         transform="matrix(0.9820576,-0.1885811,0.1885811,0.9820576,-194.3844,-162.05487)"
+         sodipodi:nodetypes="ccccccc"
+         inkscape:export-filename="/home/qubodup/tower.png"
+         inkscape:export-xdpi="179.64"
+         inkscape:export-ydpi="179.64" />
+      <path
+         style="opacity:1;fill:#65676d;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 300.00001,296.36219 L 295,304.375 L 291,326.375 L 309.00001,326.3622 L 305.00001,304.3622 L 300.00001,296.36219 z"
+         transform="matrix(0.9820576,-0.1885811,0.1885811,0.9820576,-194.3844,-162.05487)"
+         id="path3373"
+         sodipodi:nodetypes="cccccc"
+         inkscape:export-filename="/home/qubodup/tower.png"
+         inkscape:export-xdpi="179.64"
+         inkscape:export-ydpi="179.64" />
+      <path
+         transform="matrix(0.9820576,-0.1885811,0.1885811,0.9820576,-194.3844,-162.05487)"
+         id="path3367"
+         d="M 281.00001,326.3622 L 286.00001,303.3622 L 300.00001,296.36219 L 295.00001,304.3622 L 291.00001,326.3622 L 281.00001,326.3622 z"
+         style="opacity:1;fill:#7a7a84;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         sodipodi:nodetypes="cccccc"
+         inkscape:export-filename="/home/qubodup/tower.png"
+         inkscape:export-xdpi="179.64"
+         inkscape:export-ydpi="179.64" />
+      <path
+         style="opacity:1;fill:#5c5a55;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 275.00001,328.3622 L 275.00001,323.3622 L 300.00001,326.3622 L 325.00001,323.3622 L 325.00001,328.3622 L 300.00001,331.3622 L 275.00001,328.3622 z"
+         id="path2587"
+         transform="matrix(0.9820576,-0.1885811,0.1885811,0.9820576,-194.3844,-162.05487)"
+         sodipodi:nodetypes="ccccccc"
+         inkscape:export-filename="/home/qubodup/tower.png"
+         inkscape:export-xdpi="179.64"
+         inkscape:export-ydpi="179.64" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         id="path3409"
+         d="M 199.16794,110.98986 L 164.23019,114.64402 L 130.4239,124.19054 L 129.85817,121.24436 L 163.66445,111.69785 L 198.6022,108.04368 L 199.16794,110.98986 z"
+         style="opacity:1;fill:#43403e;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="/home/qubodup/tower.png"
+         inkscape:export-xdpi="179.64"
+         inkscape:export-ydpi="179.64" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         transform="matrix(0.9820576,-0.1885811,0.1885811,0.9820576,-194.3844,-162.05487)"
+         id="path3363"
+         d="M 265,437.36218 L 270,327.36218 L 300.00001,330.3622 L 330,327.36218 L 335,437.36218 L 300.00001,440.3622 L 265,437.36218 z"
+         style="opacity:1;fill:#706d66;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="/home/qubodup/tower.png"
+         inkscape:export-xdpi="179.64"
+         inkscape:export-ydpi="179.64" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path3433"
+         d="M 166.68564,173.99589 L 170.57717,173.63046 L 168.10805,160.35795 L 164.29324,160.70864 L 166.68564,173.99589 z"
+         style="opacity:1;fill:#404040;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:transform-center-x="6.7968728"
+         inkscape:transform-center-y="14.437497"
+         inkscape:export-filename="/home/qubodup/tower.png"
+         inkscape:export-xdpi="179.64"
+         inkscape:export-ydpi="179.64" />
+      <path
+         style="opacity:1;fill:#404040;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 161.90084,147.4214 L 165.63893,147.08544 L 163.16981,133.81293 L 159.50844,134.13416 L 161.90084,147.4214 z"
+         id="path3437"
+         sodipodi:nodetypes="ccccc"
+         inkscape:transform-center-x="6.5624977"
+         inkscape:transform-center-y="-12.562498"
+         inkscape:export-filename="/home/qubodup/tower.png"
+         inkscape:export-xdpi="179.64"
+         inkscape:export-ydpi="179.64" />
+      <path
+         style="opacity:1;fill:#404040;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 143.2104,149.1012 L 146.94849,148.76524 L 144.86298,135.41907 L 141.20161,135.7403 L 143.2104,149.1012 z"
+         id="path3439"
+         sodipodi:nodetypes="ccccc"
+         inkscape:transform-center-x="25.039056"
+         inkscape:transform-center-y="-14.437499"
+         inkscape:export-filename="/home/qubodup/tower.png"
+         inkscape:export-xdpi="179.64"
+         inkscape:export-ydpi="179.64" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path3435"
+         d="M 147.22796,175.82302 L 151.1195,175.45759 L 149.03399,162.11142 L 145.21918,162.46211 L 147.22796,175.82302 z"
+         style="opacity:1;fill:#404040;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:transform-center-x="26.054684"
+         inkscape:transform-center-y="12.562498"
+         inkscape:export-filename="/home/qubodup/tower.png"
+         inkscape:export-xdpi="179.64"
+         inkscape:export-ydpi="179.64" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         transform="matrix(0.9820576,-0.1885811,0.1885811,0.9820576,-194.3844,-162.05487)"
+         id="path3405"
+         d="M 266.00001,436.3622 L 271.00001,328.3622 L 299.00001,331.3622 L 299.00001,439.3622 L 266.00001,436.3622 z"
+         style="opacity:1;fill:#817c74;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="/home/qubodup/tower.png"
+         inkscape:export-xdpi="179.64"
+         inkscape:export-ydpi="179.64" />
+      <path
+         style="opacity:1;fill:#404040;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 317.80469,370.1747 L 314.07032,370.5497 L 313.79689,357.0497 L 317.45313,356.6747 L 317.80469,370.1747 z"
+         id="path3417"
+         transform="matrix(0.9820576,-0.1885811,0.1885811,0.9820576,-194.3844,-162.05487)"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="/home/qubodup/tower.png"
+         inkscape:export-xdpi="179.64"
+         inkscape:export-ydpi="179.64" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         transform="matrix(0.9820576,-0.1885811,0.1885811,0.9820576,-194.3844,-162.05487)"
+         id="path3415"
+         d="M 318.50782,397.1747 L 314.61719,397.5497 L 314.34376,384.0497 L 318.15626,383.6747 L 318.50782,397.1747 z"
+         style="opacity:1;fill:#404040;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="/home/qubodup/tower.png"
+         inkscape:export-xdpi="179.64"
+         inkscape:export-ydpi="179.64" />
+      <path
+         style="opacity:1;fill:#69645a;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 301.00001,331.3622 L 329.00001,328.3622 L 334.00001,436.3622 L 301.00001,439.3622 L 301.00001,331.3622 z"
+         id="path3403"
+         transform="matrix(0.9820576,-0.1885811,0.1885811,0.9820576,-194.3844,-162.05487)"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="/home/qubodup/tower.png"
+         inkscape:export-xdpi="179.64"
+         inkscape:export-ydpi="179.64" />
+      <path
+         style="opacity:1;fill:#5a544f;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 199.16794,110.98986 L 165.36167,120.53636 L 130.4239,124.19054 L 129.85817,121.24436 L 164.79593,117.59019 L 198.6022,108.04368 L 199.16794,110.98986 z"
+         id="path3365"
+         sodipodi:nodetypes="ccccccc"
+         inkscape:export-filename="/home/qubodup/tower.png"
+         inkscape:export-xdpi="179.64"
+         inkscape:export-ydpi="179.64" />
+      <path
+         style="opacity:1;fill:#54545c;fill-opacity:0.39215686;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 300.00001,296.36219 L 286,303.36218 L 295,304.36218 L 305,304.36218 C 305,304.36218 314,303.36218 314,303.36218 L 300.00001,296.36219 z"
+         id="path3381"
+         transform="matrix(0.9820576,-0.1885811,0.1885811,0.9820576,-194.3844,-162.05487)"
+         sodipodi:nodetypes="cccccc"
+         inkscape:export-filename="/home/qubodup/tower.png"
+         inkscape:export-xdpi="179.64"
+         inkscape:export-ydpi="179.64" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         transform="matrix(0.9820576,-0.1885811,0.1885811,0.9820576,-194.3844,-162.05487)"
+         id="path3413"
+         d="M 321.23439,423.9872 L 321.62501,437.4872 L 313.37501,438.2372 L 313.14064,424.7372 L 321.23439,423.9872 z"
+         style="opacity:1;fill:#404040;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="/home/qubodup/tower.png"
+         inkscape:export-xdpi="179.64"
+         inkscape:export-ydpi="179.64" />
+      <path
+         style="opacity:1;fill:#404040;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 308.78126,398.1122 L 304.89064,398.4872 L 304.81251,384.9872 L 308.62501,384.6122 L 308.78126,398.1122 z"
+         id="path3419"
+         transform="matrix(0.9820576,-0.1885811,0.1885811,0.9820576,-194.3844,-162.05487)"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="/home/qubodup/tower.png"
+         inkscape:export-xdpi="179.64"
+         inkscape:export-ydpi="179.64" />
+      <path
+         style="opacity:1;fill:#404040;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 328.23439,396.2372 L 324.34376,396.6122 L 323.87501,383.1122 L 327.68751,382.7372 L 328.23439,396.2372 z"
+         id="path3423"
+         transform="matrix(0.9820576,-0.1885811,0.1885811,0.9820576,-194.3844,-162.05487)"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="/home/qubodup/tower.png"
+         inkscape:export-xdpi="179.64"
+         inkscape:export-ydpi="179.64" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         transform="matrix(0.9820576,-0.1885811,0.1885811,0.9820576,-194.3844,-162.05487)"
+         id="path3425"
+         d="M 308.46876,371.1122 L 304.73439,371.4872 L 304.65626,357.9872 L 308.31251,357.6122 L 308.46876,371.1122 z"
+         style="opacity:1;fill:#404040;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="/home/qubodup/tower.png"
+         inkscape:export-xdpi="179.64"
+         inkscape:export-ydpi="179.64" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         transform="matrix(0.9820576,-0.1885811,0.1885811,0.9820576,-194.3844,-162.05487)"
+         id="path3427"
+         d="M 327.14063,369.2372 L 323.40626,369.6122 L 322.93751,356.1122 L 326.59376,355.7372 L 327.14063,369.2372 z"
+         style="opacity:1;fill:#404040;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:export-filename="/home/qubodup/tower.png"
+         inkscape:export-xdpi="179.64"
+         inkscape:export-ydpi="179.64" />
+      <path
+         style="opacity:1;fill:#404040;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 156.9568,174.90945 L 160.84834,174.54403 L 158.57102,161.23468 L 154.75621,161.58538 L 156.9568,174.90945 z"
+         id="path3429"
+         sodipodi:nodetypes="ccccc"
+         inkscape:transform-center-x="16.425777"
+         inkscape:transform-center-y="13.500002"
+         inkscape:export-filename="/home/qubodup/tower.png"
+         inkscape:export-xdpi="179.64"
+         inkscape:export-ydpi="179.64" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path3431"
+         d="M 152.55563,148.2613 L 156.29371,147.92534 L 154.01639,134.616 L 150.35503,134.93723 L 152.55563,148.2613 z"
+         style="opacity:1;fill:#404040;fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:transform-center-x="15.800774"
+         inkscape:transform-center-y="-13.499997"
+         inkscape:export-filename="/home/qubodup/tower.png"
+         inkscape:export-xdpi="179.64"
+         inkscape:export-ydpi="179.64" />
+    </g>
+  </g>
+</svg>

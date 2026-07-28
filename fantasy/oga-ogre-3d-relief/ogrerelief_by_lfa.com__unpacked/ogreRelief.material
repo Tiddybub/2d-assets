@@ -1,0 +1,28 @@
+
+
+
+
+material M_ogreRelief
+{
+	technique
+	{
+		pass
+		{
+			lighting on
+
+			ambient 1 1 1 1
+			diffuse vertexcolour
+			specular 0.5 0.5 0.5 128
+			emissive 0 0 0
+
+			texture_unit
+			{
+				texture ogreRelief.png
+				tex_coord_set 0
+				colour_op modulate
+			}
+		}
+	}
+}
+
+

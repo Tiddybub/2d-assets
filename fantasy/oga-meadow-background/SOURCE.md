@@ -1,0 +1,9 @@
+# Meadow background
+
+- **Source:** [OpenGameArt](https://opengameart.org/content/meadow-background)
+- **License:** CC0 (public domain equivalent - free for commercial use, no attribution required)
+- **Tags:** watercolor, sky, grass, clouds, meadow, mypaint, Fantasy, Historical, Modern, background, Storyboard, Raster Art
+- **Genres:** fantasy, tiles-terrain
+- **Files:** 2
+
+Credit is not required but is appreciated by the author.
