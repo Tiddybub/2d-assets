@@ -1,0 +1,220 @@
+[gd_scene load_steps=14 format=2]
+
+[ext_resource path="res://Sprites/player.tres" type="SpriteFrames" id=1]
+[ext_resource path="res://Scripts/player.gd" type="Script" id=2]
+[ext_resource path="res://Projectile/Projectile.tscn" type="PackedScene" id=3]
+[ext_resource path="res://Sprites/tilemap.tres" type="TileSet" id=4]
+[ext_resource path="res://Sprites/bee.tres" type="SpriteFrames" id=5]
+[ext_resource path="res://Sprites/fly.tres" type="SpriteFrames" id=6]
+[ext_resource path="res://Sprites/grub.tres" type="SpriteFrames" id=7]
+[ext_resource path="res://Scripts/bee.gd" type="Script" id=13]
+
+[sub_resource type="Gradient" id=1]
+colors = PoolColorArray( 1, 1, 1, 1, 1, 1, 1, 0 )
+
+[sub_resource type="GradientTexture" id=2]
+gradient = SubResource( 1 )
+
+[sub_resource type="ParticlesMaterial" id=3]
+emission_shape = 1
+emission_sphere_radius = 4.0
+flag_disable_z = true
+direction = Vector3( 0, 0, 0 )
+spread = 180.0
+gravity = Vector3( 0, 0, 0 )
+initial_velocity = 10.0
+orbit_velocity = 0.0
+orbit_velocity_random = 0.0
+damping = 5.0
+angle = 90.0
+angle_random = 1.0
+scale = 2.0
+scale_random = 1.0
+color_ramp = SubResource( 2 )
+
+[sub_resource type="CapsuleShape2D" id=4]
+radius = 6.0
+height = 4.0
+
+[sub_resource type="RectangleShape2D" id=5]
+extents = Vector2( 8, 8 )
+
+[node name="Game" type="Node2D"]
+
+[node name="TileMap" type="TileMap" parent="."]
+tile_set = ExtResource( 4 )
+cell_size = Vector2( 16, 16 )
+cell_clip_uv = true
+collision_mask = 3
+format = 1
+tile_data = PoolIntArray( -720870, 0, 1, -720869, 0, 2, -655347, 0, 196616, -655338, 0, 65538, -589811, 0, 262152, -589799, 0, 196616, -589796, 0, 65538, -524278, 0, 1, -524277, 0, 2, -524275, 0, 196617, -524263, 0, 262151, -524255, 0, 196616, -393218, 0, 196616, -458739, 0, 327688, -458738, 0, 196611, -458732, 0, 9, -458727, 0, 262153, -458721, 0, 9, -458719, 0, 196617, -327682, 0, 262152, -393207, 0, 65537, -393204, 0, 131079, -393203, 0, 131073, -393202, 0, 131080, -393192, 0, 196611, -393191, 0, 327688, -393189, 0, 196615, -393188, 0, 196613, -393183, 0, 262152, -393181, 0, 1, -393180, 0, 2, -262146, 0, 196617, -327675, 0, 196616, -327656, 0, 6, -327655, 0, 4, -327654, 0, 131074, -327653, 0, 4, -327652, 0, 4, -327651, 0, 5, -327647, 0, 327688, -327646, 0, 196609, -196618, 0, 65537, -196610, 0, 327688, -262141, 0, 65538, -262139, 0, 262153, -262136, 0, 196616, -262126, 0, 65537, -262120, 0, 65539, -262115, 0, 65541, -262113, 0, 196616, -262111, 0, 3, -262110, 0, 4, -262109, 0, 4, -262108, 0, 5, -131085, 0, 1, -131084, 0, 2, -131075, 0, 131079, -131074, 0, 131073, -131073, 0, 131080, -196604, 0, 196608, -196603, 0, 327688, -196601, 0, 196612, -196600, 0, 327689, -196592, 0, 65537, -196589, 0, 1, -196588, 0, 2, -196584, 0, 65539, -196579, 0, 65541, -196578, 0, 196608, -196577, 0, 327687, -196575, 0, 65539, -196572, 0, 65541, -65551, 0, 9, -65542, 0, 196616, -131071, 0, 1, -131070, 0, 9, -131068, 0, 6, -131067, 0, 4, -131066, 0, 131074, -131065, 0, 4, -131064, 0, 4, -131063, 0, 5, -131059, 0, 196610, -131057, 0, 196611, -131048, 0, 65539, -131043, 0, 131078, -131042, 0, 4, -131041, 0, 131074, -131040, 0, 4, -131039, 0, 131077, -131036, 0, 65544, -14, 0, 196608, -13, 0, 196609, -10, 0, 196616, -6, 0, 262153, -65532, 0, 65539, -65527, 0, 65541, -65523, 0, 3, -65522, 0, 4, -65521, 0, 4, -65520, 0, 5, -65518, 0, 3, -65517, 0, 8, -65515, 0, 196612, -65514, 0, 196613, -65512, 0, 65539, -65506, 0, 393220, 65521, 0, 4, 65522, 0, 4, 65523, 0, 4, 65524, 0, 8, 65526, 0, 262152, 65529, 0, 196614, 65530, 0, 327688, 4, 0, 65539, 9, 0, 65541, 11, 0, 196612, 13, 0, 65539, 16, 0, 65541, 18, 0, 65539, 19, 0, 131078, 20, 0, 4, 21, 0, 131073, 22, 0, 4, 23, 0, 4, 24, 0, 131077, 131060, 0, 65541, 131062, 0, 196617, 131064, 0, 3, 131065, 0, 4, 131066, 0, 131073, 131067, 0, 5, 131069, 0, 65538, 65540, 0, 65539, 65545, 0, 131078, 65546, 0, 4, 65547, 0, 131074, 65548, 0, 4, 65549, 0, 131077, 65552, 0, 65544, 65554, 0, 65539, 196596, 0, 65541, 196598, 0, 327688, 196600, 0, 65539, 196603, 0, 65541, 131072, 0, 196614, 131074, 0, 196613, 131075, 0, 196610, 131076, 0, 65539, 131090, 0, 65539, 262132, 0, 131078, 262133, 0, 4, 262134, 0, 4, 262135, 0, 4, 262136, 0, 131077, 262139, 0, 65541, 262143, 0, 6, 196608, 0, 4, 196609, 0, 131073, 196610, 0, 4, 196611, 0, 4, 196612, 0, 131077, 196626, 0, 65542, 327675, 0, 65544, 327679, 0, 65539, 393215, 0, 65542 )
+
+[node name="Player" type="KinematicBody2D" parent="." groups=[
+"npc",
+"player",
+]]
+script = ExtResource( 2 )
+__meta__ = {
+"_edit_group_": true
+}
+projectile = ExtResource( 3 )
+
+[node name="Dust" type="Particles2D" parent="Player"]
+position = Vector2( 0, 10 )
+amount = 16
+local_coords = false
+process_material = SubResource( 3 )
+
+[node name="Sprite" type="AnimatedSprite" parent="Player"]
+position = Vector2( 0, 8 )
+frames = ExtResource( 1 )
+animation = "idle"
+offset = Vector2( 0, -8 )
+
+[node name="Collision" type="CollisionShape2D" parent="Player"]
+shape = SubResource( 4 )
+
+[node name="Camera" type="Camera2D" parent="Player"]
+current = true
+zoom = Vector2( 0.25, 0.25 )
+limit_left = -240
+limit_top = -200
+limit_right = 620
+limit_bottom = 120
+limit_smoothed = true
+smoothing_enabled = true
+
+[node name="Level" type="Node2D" parent="."]
+
+[node name="Bee" type="KinematicBody2D" parent="Level"]
+position = Vector2( 40, 8 )
+collision_layer = 2
+collision_mask = 2
+script = ExtResource( 13 )
+__meta__ = {
+"_edit_group_": true
+}
+movementSpeed = 30
+
+[node name="Sprite" type="AnimatedSprite" parent="Level/Bee"]
+position = Vector2( 0, -4 )
+frames = ExtResource( 5 )
+frame = 1
+playing = true
+flip_h = true
+
+[node name="Shape" type="CollisionShape2D" parent="Level/Bee"]
+position = Vector2( 0, -2 )
+scale = Vector2( 0.5, 0.5 )
+shape = SubResource( 5 )
+
+[node name="Bee2" type="KinematicBody2D" parent="Level"]
+position = Vector2( 216, -48 )
+collision_layer = 2
+collision_mask = 2
+script = ExtResource( 13 )
+__meta__ = {
+"_edit_group_": true
+}
+movementSpeed = 30
+
+[node name="Sprite" type="AnimatedSprite" parent="Level/Bee2"]
+position = Vector2( 0, -4 )
+frames = ExtResource( 5 )
+frame = 1
+playing = true
+flip_h = true
+
+[node name="Shape" type="CollisionShape2D" parent="Level/Bee2"]
+position = Vector2( 0, -2 )
+scale = Vector2( 0.5, 0.5 )
+shape = SubResource( 5 )
+
+[node name="Fly" type="KinematicBody2D" parent="Level"]
+position = Vector2( 16, -24 )
+collision_layer = 2
+collision_mask = 2
+script = ExtResource( 13 )
+__meta__ = {
+"_edit_group_": true
+}
+movementSpeed = 30
+orientation = 1
+
+[node name="Sprite" type="AnimatedSprite" parent="Level/Fly"]
+position = Vector2( 0, -4 )
+frames = ExtResource( 6 )
+playing = true
+flip_h = true
+
+[node name="Shape" type="CollisionShape2D" parent="Level/Fly"]
+position = Vector2( 0, -2 )
+scale = Vector2( 0.5, 0.5 )
+shape = SubResource( 5 )
+
+[node name="Fly2" type="KinematicBody2D" parent="Level"]
+position = Vector2( 440, -104 )
+collision_layer = 2
+collision_mask = 2
+script = ExtResource( 13 )
+__meta__ = {
+"_edit_group_": true
+}
+movementSpeed = 30
+orientation = 1
+
+[node name="Sprite" type="AnimatedSprite" parent="Level/Fly2"]
+position = Vector2( 0, -4 )
+frames = ExtResource( 6 )
+playing = true
+flip_h = true
+
+[node name="Shape" type="CollisionShape2D" parent="Level/Fly2"]
+position = Vector2( 0, -2 )
+scale = Vector2( 0.5, 0.5 )
+shape = SubResource( 5 )
+
+[node name="Grub" type="KinematicBody2D" parent="Level"]
+position = Vector2( 200, 12 )
+collision_layer = 2
+collision_mask = 2
+script = ExtResource( 13 )
+__meta__ = {
+"_edit_group_": true
+}
+movementSpeed = 30
+orientation = 1
+
+[node name="Sprite" type="AnimatedSprite" parent="Level/Grub"]
+frames = ExtResource( 7 )
+playing = true
+offset = Vector2( 0, -4 )
+flip_h = true
+
+[node name="Shape" type="CollisionShape2D" parent="Level/Grub"]
+position = Vector2( 0, -2 )
+scale = Vector2( 0.5, 0.5 )
+shape = SubResource( 5 )
+
+[node name="Grub2" type="KinematicBody2D" parent="Level"]
+position = Vector2( 368, -4 )
+collision_layer = 2
+collision_mask = 2
+script = ExtResource( 13 )
+__meta__ = {
+"_edit_group_": true
+}
+movementSpeed = 30
+orientation = 1
+
+[node name="Sprite" type="AnimatedSprite" parent="Level/Grub2"]
+frames = ExtResource( 7 )
+frame = 1
+playing = true
+offset = Vector2( 0, -4 )
+flip_h = true
+
+[node name="Shape" type="CollisionShape2D" parent="Level/Grub2"]
+position = Vector2( 0, -2 )
+scale = Vector2( 0.5, 0.5 )
+shape = SubResource( 5 )
