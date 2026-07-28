@@ -1,0 +1,1 @@
+All loops made with FL Studio, was rendered to audio file as different loops and then combined into one mp3 files.
