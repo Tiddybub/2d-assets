@@ -1,0 +1,2194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="112.00002"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="recGems.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#484848"
+     bordercolor="#000000"
+     borderopacity="0.38823529"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8"
+     inkscape:cx="27.551421"
+     inkscape:cy="57.041299"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:showpageshadow="false"
+     showborder="true"
+     inkscape:window-width="1126"
+     inkscape:window-height="1181"
+     inkscape:window-x="0"
+     inkscape:window-y="19"
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2816"
+       empspacing="8"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       color="#e8e8ff"
+       opacity="0.03137255"
+       empcolor="#999999"
+       empopacity="0.09803922" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-892.36218)">
+    <path
+       style="fill:#f2ff46;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 0,0 0,16 16,16 16,0 z M 2,2 14,2 14,14 2,14 z"
+       transform="translate(0,892.36218)"
+       id="path3830"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block1.png" />
+    <path
+       style="fill:#1eca00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 16,0 0,16 16,0 0,-16 z m 2,2 12,0 0,12 -12,0 z"
+       id="path3832"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc"
+       transform="translate(0,892.36218)"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block2.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#1eca00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3837"
+       width="2"
+       height="2"
+       x="21"
+       y="895.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block2.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="895.36218"
+       x="25"
+       height="2"
+       width="2"
+       id="rect3859"
+       style="fill:#1eca00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block2.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="899.36218"
+       x="21"
+       height="2"
+       width="2"
+       id="rect3863"
+       style="fill:#1eca00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block2.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#1eca00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3865"
+       width="2"
+       height="2"
+       x="19"
+       y="897.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block2.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#1eca00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3867"
+       width="2"
+       height="2"
+       x="25"
+       y="899.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block2.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="897.36218"
+       x="23"
+       height="2"
+       width="2"
+       id="rect3869"
+       style="fill:#1eca00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block2.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#1eca00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3871"
+       width="2"
+       height="2"
+       x="21"
+       y="903.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block2.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="901.36218"
+       x="19"
+       height="2"
+       width="2"
+       id="rect3873"
+       style="fill:#1eca00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block2.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="903.36218"
+       x="25"
+       height="2"
+       width="2"
+       id="rect3875"
+       style="fill:#1eca00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block2.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#1eca00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3877"
+       width="2"
+       height="2"
+       x="23"
+       y="901.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block2.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#1eca00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3885"
+       width="2"
+       height="2"
+       x="27"
+       y="897.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block2.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="901.36218"
+       x="27"
+       height="2"
+       width="2"
+       id="rect3889"
+       style="fill:#1eca00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block2.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#f2ff46;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3913"
+       width="2"
+       height="2"
+       x="5"
+       y="903.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block1.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="901.36218"
+       x="7"
+       height="2"
+       width="2"
+       id="rect3915"
+       style="fill:#f2ff46;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block1.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#f2ff46;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3917"
+       width="2"
+       height="2"
+       x="9"
+       y="899.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block1.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="897.36218"
+       x="11"
+       height="2"
+       width="2"
+       id="rect3919"
+       style="fill:#f2ff46;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block1.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="901.36218"
+       x="3"
+       height="2"
+       width="2"
+       id="rect3925"
+       style="fill:#f2ff46;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block1.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#f2ff46;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3927"
+       width="2"
+       height="2"
+       x="5"
+       y="899.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block1.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="897.36218"
+       x="7"
+       height="2"
+       width="2"
+       id="rect3929"
+       style="fill:#f2ff46;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block1.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#f2ff46;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3931"
+       width="2"
+       height="2"
+       x="9"
+       y="895.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block1.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <path
+       style="fill:#ff5ac7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 0,16 0,16 16,0 0,-16 z m 2,2 12,0 0,12 -12,0 z"
+       transform="translate(0,892.36218)"
+       id="rect3938"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block5.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <path
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path3943"
+       d="m 16,908.36218 0,16 16,0 0,-16 z m 2,2 12,0 0,12 -12,0 z"
+       style="fill:#ff7341;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block6.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <path
+       style="fill:#70fffd;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 32,892.36218 0,16 16,0 0,-16 z m 2,2 12,0 0,12 -12,0 z"
+       id="path3945"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block3.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <path
+       style="fill:#c277ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 32,908.36218 0,16 16,0 0,-16 z m 2,2 12,0 0,12 -12,0 z"
+       id="path3947"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block7.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <path
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path3949"
+       d="m 0,940.36218 0,16 16,0 0,-16 z m 2,2 12,0 0,12 -12,0 z"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/wildcard.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#70fffd;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3951"
+       width="2"
+       height="2"
+       x="39"
+       y="895.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block3.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="943.36218"
+       x="7"
+       height="1.9999974"
+       width="4"
+       id="rect3961"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/wildcard.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="951.36218"
+       x="7"
+       height="2"
+       width="2"
+       id="rect3965"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/wildcard.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3973"
+       width="4.0000024"
+       height="1.9999974"
+       x="945.36218"
+       y="-11"
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/wildcard.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-8.9999962"
+       x="947.36218"
+       height="1.9999974"
+       width="3.0000043"
+       id="rect3975"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/wildcard.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3977"
+       width="3.0000043"
+       height="1.9999974"
+       x="943.36218"
+       y="-7"
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/wildcard.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="897.36218"
+       x="37"
+       height="2"
+       width="2"
+       id="rect3979"
+       style="fill:#70fffd;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block3.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#70fffd;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3981"
+       width="2"
+       height="2"
+       x="35"
+       y="899.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block3.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="899.36218"
+       x="43"
+       height="2"
+       width="2"
+       id="rect3983"
+       style="fill:#70fffd;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block3.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#70fffd;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3985"
+       width="2"
+       height="2"
+       x="41"
+       y="901.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block3.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="903.36218"
+       x="39"
+       height="2"
+       width="2"
+       id="rect3987"
+       style="fill:#70fffd;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block3.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#70fffd;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3989"
+       width="2"
+       height="2"
+       x="41"
+       y="897.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block3.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#70fffd;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3991"
+       width="2"
+       height="2"
+       x="37"
+       y="901.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block3.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="911.36218"
+       x="7"
+       height="2"
+       width="2"
+       id="rect3995"
+       style="fill:#ff5ac7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block5.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="918.36218"
+       x="39"
+       height="2"
+       width="2"
+       id="rect3997"
+       style="fill:#c277ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block7.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#ff5ac7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3999"
+       width="2"
+       height="2"
+       x="7"
+       y="914.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block5.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="917.36218"
+       x="5"
+       height="2"
+       width="2"
+       id="rect4001"
+       style="fill:#ff5ac7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block5.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#ff5ac7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4003"
+       width="2"
+       height="2"
+       x="9"
+       y="917.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block5.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#ff5ac7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4005"
+       width="2"
+       height="2"
+       x="3"
+       y="919.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block5.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="919.36218"
+       x="11"
+       height="2"
+       width="2"
+       id="rect4007"
+       style="fill:#ff5ac7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block5.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#ff5ac7;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4009"
+       width="2"
+       height="2"
+       x="7"
+       y="919.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block5.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="915.36218"
+       x="19"
+       height="2"
+       width="4"
+       id="rect4022"
+       style="fill:#ff7341;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block6.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#ff7341;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4026"
+       width="2"
+       height="3.9999962"
+       x="23"
+       y="911.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block6.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#ff7341;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4030"
+       width="4"
+       height="2"
+       x="25"
+       y="915.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block6.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="917.36218"
+       x="23"
+       height="3.9999962"
+       width="2"
+       id="rect4032"
+       style="fill:#ff7341;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block6.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#c277ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4034"
+       width="2"
+       height="2"
+       x="41"
+       y="916.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block7.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="914.36218"
+       x="43"
+       height="2"
+       width="2"
+       id="rect4036"
+       style="fill:#c277ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block7.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#c277ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4038"
+       width="2"
+       height="2"
+       x="41"
+       y="912.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block7.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="914.36218"
+       x="39"
+       height="2"
+       width="2"
+       id="rect4040"
+       style="fill:#c277ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block7.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#c277ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4042"
+       width="2"
+       height="2"
+       x="37"
+       y="912.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block7.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="914.36218"
+       x="35"
+       height="2"
+       width="2"
+       id="rect4044"
+       style="fill:#c277ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block7.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#c277ff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4046"
+       width="2"
+       height="2"
+       x="37"
+       y="916.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block7.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <path
+       style="fill:#222222;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 0,924.36218 0,16 16,0 0,-16 z m 2,2 12,0 0,12 -12,0 z"
+       id="path4048"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/warning1.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#b481c0;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4052"
+       width="2"
+       height="2"
+       x="7"
+       y="935.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/warning1.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#b481c0;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4056"
+       width="7.0000024"
+       height="2"
+       x="927.36218"
+       y="-9"
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/warning1.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="935.36218"
+       x="3"
+       height="2"
+       width="2"
+       id="rect4060"
+       style="fill:#7988c5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/warning1.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-5"
+       x="927.36218"
+       height="2"
+       width="7.0000024"
+       id="rect4062"
+       style="fill:#7988c5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/warning1.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#d06262;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4064"
+       width="2"
+       height="2"
+       x="11"
+       y="935.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/warning1.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#d06262;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4066"
+       width="7.0000024"
+       height="2"
+       x="927.36218"
+       y="-13"
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/warning1.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <path
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4087"
+       d="m 16,940.36218 0,16 16,0 0,-16 z m 2,2 12,0 0,12 -12,0 z"
+       style="fill:#111111;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <rect
+       style="fill:#111111;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4109"
+       width="10"
+       height="9.9999866"
+       x="19"
+       y="943.36218" />
+    <rect
+       y="943.36218"
+       x="19"
+       height="3.9999993"
+       width="4"
+       id="rect4119"
+       style="fill:#ff4646;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <rect
+       style="fill:#ff4646;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4121"
+       width="4"
+       height="3.9999993"
+       x="25"
+       y="943.36218" />
+    <rect
+       y="951.36218"
+       x="19"
+       height="2.0000052"
+       width="2"
+       id="rect4123"
+       style="fill:#ff4646;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <rect
+       style="fill:#ff4646;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4125"
+       width="2"
+       height="2.0000052"
+       x="23"
+       y="948.36218" />
+    <rect
+       y="951.36218"
+       x="27"
+       height="2.0000052"
+       width="2"
+       id="rect4127"
+       style="fill:#ff4646;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <rect
+       y="951.36218"
+       x="23"
+       height="2.0000052"
+       width="2"
+       id="rect4131"
+       style="fill:#ff4646;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <path
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4133"
+       d="m 32,940.36218 0,16 16,0 0,-16 z m 2,2 12,0 0,12 -12,0 z"
+       style="fill:#111111;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/bomb.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#111111;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4139"
+       width="10"
+       height="10.000008"
+       x="35"
+       y="943.36218" />
+    <rect
+       style="fill:#ff4646;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4147"
+       width="2"
+       height="2.0000052"
+       x="39"
+       y="947.36218" />
+    <path
+       style="fill:#111111;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 48,940.36218 0,16 16,0 0,-16 z m 2,2 12,0 0,12 -12,0 z"
+       id="path4149"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc" />
+    <rect
+       y="943.36218"
+       x="51"
+       height="10.000008"
+       width="10"
+       id="rect4151"
+       style="fill:#111111;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <rect
+       style="fill:#ff4646;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4155"
+       width="6"
+       height="2.0000052"
+       x="53"
+       y="949.36218" />
+    <rect
+       style="fill:#ff4646;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4159"
+       width="2"
+       height="2.0000052"
+       x="53"
+       y="945.36218" />
+    <rect
+       y="945.36218"
+       x="57"
+       height="2.0000052"
+       width="2"
+       id="rect4161"
+       style="fill:#ff4646;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <path
+       style="fill:#af7845;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 48,908.36218 0,16 16,0 0,-16 z m 2,2 12,0 0,12 -12,0 z"
+       id="path4163"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block8.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="911.36218"
+       x="59"
+       height="2"
+       width="2"
+       id="rect4181"
+       style="fill:#af7845;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block8.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#af7845;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4183"
+       width="2"
+       height="2"
+       x="51"
+       y="911.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block8.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="919.36218"
+       x="51"
+       height="2"
+       width="2"
+       id="rect4185"
+       style="fill:#af7845;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block8.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#af7845;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4187"
+       width="2"
+       height="2"
+       x="59"
+       y="919.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block8.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="915.36218"
+       x="59"
+       height="2"
+       width="2"
+       id="rect4189"
+       style="fill:#af7845;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block8.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#af7845;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4191"
+       width="2"
+       height="2"
+       x="51"
+       y="915.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block8.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="911.36218"
+       x="55"
+       height="2"
+       width="2"
+       id="rect4193"
+       style="fill:#af7845;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block8.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#af7845;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4195"
+       width="2"
+       height="2"
+       x="55"
+       y="919.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block8.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#af7845;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4197"
+       width="2"
+       height="2"
+       x="55"
+       y="915.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block8.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <path
+       style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 0,956.36218 0,16 16,0 0,-16 z m 2,2 12,0 0,12 -12,0 z"
+       id="path4199"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/explode1.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="963.36218"
+       x="7"
+       height="2"
+       width="2"
+       id="rect4205"
+       style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/explode1.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <path
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4209"
+       d="m 16,956.36218 0,16 16,0 0,-16 z m 2,2 12,0 0,12 -12,0 z"
+       style="fill:#696969;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/explode2.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#696969;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4211"
+       width="2"
+       height="2"
+       x="23"
+       y="966.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/explode2.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <path
+       style="fill:#606060;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 32,956.36218 0,16 16,0 0,-16 z m 2,2 12,0 0,12 -12,0 z"
+       id="path4213"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/explode3.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="962.36218"
+       x="35"
+       height="2"
+       width="2"
+       id="rect4215"
+       style="fill:#606060;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/explode3.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <path
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4217"
+       d="m 48,956.36218 0,16 16,0 0,-16 z m 2,2 12,0 0,12 -12,0 z"
+       style="fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/explode4.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4219"
+       width="2"
+       height="2"
+       x="60"
+       y="966.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/explode4.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="958.36218"
+       x="60"
+       height="2"
+       width="2"
+       id="rect4221"
+       style="fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/explode4.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="968.36218"
+       x="52"
+       height="2"
+       width="2"
+       id="rect4223"
+       style="fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/explode4.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4225"
+       width="2"
+       height="2"
+       x="50"
+       y="960.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/explode4.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="958.36218"
+       x="54"
+       height="2"
+       width="2"
+       id="rect4227"
+       style="fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/explode4.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#505050;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4229"
+       width="2"
+       height="2"
+       x="50"
+       y="964.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/explode4.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="967.36218"
+       x="35"
+       height="2"
+       width="2"
+       id="rect4231"
+       style="fill:#606060;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/explode3.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#606060;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4233"
+       width="2"
+       height="2"
+       x="35"
+       y="958.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/explode3.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="959.36218"
+       x="43"
+       height="2"
+       width="2"
+       id="rect4235"
+       style="fill:#606060;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/explode3.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#606060;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4237"
+       width="2"
+       height="2"
+       x="43"
+       y="966.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/explode3.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="964.36218"
+       x="43"
+       height="2"
+       width="2"
+       id="rect4239"
+       style="fill:#606060;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/explode3.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#606060;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4241"
+       width="2"
+       height="2"
+       x="40"
+       y="967.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/explode3.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="959.36218"
+       x="38"
+       height="2"
+       width="2"
+       id="rect4243"
+       style="fill:#606060;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/explode3.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#696969;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4245"
+       width="2"
+       height="2"
+       x="26"
+       y="964.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/explode2.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="963.36218"
+       x="20"
+       height="2"
+       width="2"
+       id="rect4247"
+       style="fill:#696969;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/explode2.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#696969;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4249"
+       width="2"
+       height="2"
+       x="21"
+       y="959.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/explode2.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="964.36218"
+       x="22"
+       height="2"
+       width="2"
+       id="rect4251"
+       style="fill:#696969;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/explode2.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#696969;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4253"
+       width="2"
+       height="2"
+       x="24"
+       y="961.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/explode2.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="963.36218"
+       x="9"
+       height="2"
+       width="2"
+       id="rect4255"
+       style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/explode1.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4257"
+       width="2"
+       height="2"
+       x="7"
+       y="961.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/explode1.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="963.36218"
+       x="5"
+       height="2"
+       width="2"
+       id="rect4259"
+       style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/explode1.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4261"
+       width="2"
+       height="2"
+       x="7"
+       y="965.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/explode1.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="960.36218"
+       x="26"
+       height="2"
+       width="2"
+       id="rect4263"
+       style="fill:#696969;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/explode2.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#696969;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4265"
+       width="2"
+       height="2"
+       x="23"
+       y="962.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/explode2.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <path
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4267"
+       d="m 48,892.36218 0,16 16,0 0,-16 z m 2,2 12,0 0,12 -12,0 z"
+       style="fill:#ff8377;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block4.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="895.36218"
+       x="51"
+       height="2"
+       width="2"
+       id="rect4269"
+       style="fill:#ff8377;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block4.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#ff8377;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4271"
+       width="2"
+       height="2"
+       x="53"
+       y="897.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block4.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="895.36218"
+       x="55"
+       height="2"
+       width="2"
+       id="rect4273"
+       style="fill:#ff8377;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block4.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#ff8377;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4275"
+       width="2"
+       height="2"
+       x="51"
+       y="899.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block4.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="901.36218"
+       x="57"
+       height="2"
+       width="2"
+       id="rect4277"
+       style="fill:#ff8377;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block4.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#ff8377;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4279"
+       width="2"
+       height="2"
+       x="59"
+       y="899.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block4.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="903.36218"
+       x="55"
+       height="2"
+       width="2"
+       id="rect4281"
+       style="fill:#ff8377;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block4.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#ff8377;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4283"
+       width="2"
+       height="2"
+       x="59"
+       y="903.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/block4.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <path
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4303"
+       d="m 16,924.36218 0,16 16,0 0,-16 z m 2,2 12,0 0,12 -12,0 z"
+       style="fill:#222222;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/warning2.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="935.36218"
+       x="19"
+       height="2"
+       width="2"
+       id="rect4305"
+       style="fill:#b481c0;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/warning2.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-21"
+       x="927.36218"
+       height="2"
+       width="7.0000024"
+       id="rect4307"
+       style="fill:#b481c0;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/warning2.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#79c5ac;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4309"
+       width="2"
+       height="2"
+       x="27"
+       y="935.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/warning2.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#79c5ac;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4311"
+       width="7.0000024"
+       height="2"
+       x="927.36218"
+       y="-29"
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/warning2.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="935.36218"
+       x="23"
+       height="2"
+       width="2"
+       id="rect4313"
+       style="fill:#d06262;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/warning2.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-25"
+       x="927.36218"
+       height="2"
+       width="7.0000024"
+       id="rect4315"
+       style="fill:#d06262;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/warning2.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <path
+       style="fill:#222222;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 32,924.36218 0,16 16,0 0,-16 z m 2,2 12,0 0,12 -12,0 z"
+       id="path4331"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/warning3.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="935.36218"
+       x="39"
+       height="2"
+       width="2"
+       id="rect4337"
+       style="fill:#79c5ac;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/warning3.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-41"
+       x="927.36218"
+       height="2"
+       width="7.0000024"
+       id="rect4339"
+       style="fill:#79c5ac;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/warning3.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#d06262;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4341"
+       width="2"
+       height="2"
+       x="35"
+       y="935.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/warning3.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#d06262;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4343"
+       width="7.0000024"
+       height="2"
+       x="927.36218"
+       y="-37"
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/warning3.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#7988c5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4345"
+       width="2"
+       height="2"
+       x="43"
+       y="935.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/warning3.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#7988c5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4347"
+       width="7.0000024"
+       height="2"
+       x="927.36218"
+       y="-45"
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/warning3.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <path
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4349"
+       d="m 48,924.36218 0,16 16,0 0,-16 z m 2,2 12,0 0,12 -12,0 z"
+       style="fill:#222222;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/warning4.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#79c5ac;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4351"
+       width="2"
+       height="2"
+       x="51"
+       y="935.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/warning4.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#79c5ac;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4353"
+       width="7.0000024"
+       height="2"
+       x="927.36218"
+       y="-53"
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/warning4.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="935.36218"
+       x="55"
+       height="2"
+       width="2"
+       id="rect4359"
+       style="fill:#7988c5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/warning4.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-57"
+       x="927.36218"
+       height="2"
+       width="7.0000024"
+       id="rect4361"
+       style="fill:#7988c5;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/warning4.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="935.36218"
+       x="59"
+       height="2"
+       width="2"
+       id="rect4363"
+       style="fill:#b481c0;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/warning4.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       transform="matrix(0,1,-1,0,0,0)"
+       y="-61"
+       x="927.36218"
+       height="2"
+       width="7.0000024"
+       id="rect4365"
+       style="fill:#b481c0;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/warning4.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#696969;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4371"
+       width="4"
+       height="2"
+       x="0"
+       y="-974.36218"
+       transform="scale(1,-1)"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/brick.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       transform="scale(1,-1)"
+       y="-978.36218"
+       x="0"
+       height="2"
+       width="4"
+       id="rect4379"
+       style="fill:#696969;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/brick.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       transform="scale(1,-1)"
+       style="fill:#696969;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4381"
+       width="4"
+       height="2"
+       x="4"
+       y="-976.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/brick.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#696969;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4385"
+       width="4"
+       height="2"
+       x="0"
+       y="-982.36218"
+       transform="scale(1,-1)"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/brick.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="-980.36218"
+       x="4"
+       height="2"
+       width="4"
+       id="rect4387"
+       style="fill:#696969;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(1,-1)"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/brick.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 16,972.36218 0,16 16,0 0,-16 z m 2,2 12,0 0,12 -12,0 z"
+       id="path3193"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/clock.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3195"
+       width="2"
+       height="0.99999708"
+       x="23"
+       y="974.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/clock.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="-27"
+       x="979.36218"
+       height="3.9999976"
+       width="2"
+       id="rect3197"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/clock.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="985.36218"
+       x="23"
+       height="0.99999708"
+       width="2"
+       id="rect3199"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/clock.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="-18.999996"
+       x="979.36218"
+       height="0.99999708"
+       width="2"
+       id="rect3201"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/clock.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3203"
+       width="2"
+       height="0.99999708"
+       x="979.36218"
+       y="-30"
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/clock.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3205"
+       width="2"
+       height="4.9999995"
+       x="23"
+       y="976.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/clock.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <path
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path3207"
+       d="m 32,972.36218 0,16 16,0 0,-16 z m 2,2 12,0 0,12 -12,0 z"
+       style="fill:#ff4646;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/arrow.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="975.36218"
+       x="39"
+       height="6.0000134"
+       width="2"
+       id="rect3978"
+       style="fill:#ff4646;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/arrow.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#ff4646;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3980"
+       width="2"
+       height="2.0000052"
+       x="39"
+       y="983.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/arrow.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       y="982.36218"
+       x="38"
+       height="2.0000052"
+       width="4"
+       id="rect3982"
+       style="fill:#ff4646;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/arrow.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#ff4646;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3988"
+       width="8"
+       height="1.0000052"
+       x="36"
+       y="981.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/arrow.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#ff4646;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3990"
+       width="6"
+       height="2.0000052"
+       x="37"
+       y="981.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/arrow.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <path
+       inkscape:export-ydpi="270"
+       inkscape:export-xdpi="270"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/player-win2.png"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path3992"
+       d="m 0,988.36218 0,16.00002 16,0 0,-16.00002 z m 2,2 12,0 0,12.00002 -12,0 z"
+       style="fill:#88cf59;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <rect
+       inkscape:export-ydpi="270"
+       inkscape:export-xdpi="270"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/player-win2.png"
+       y="992.36218"
+       x="4"
+       height="2"
+       width="2"
+       id="rect4006"
+       style="fill:#88cf59;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <rect
+       style="fill:#88cf59;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4019"
+       width="2"
+       height="2"
+       x="10"
+       y="992.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/player-win2.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#88cf59;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4021"
+       width="4"
+       height="2"
+       x="6"
+       y="998.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/player-win2.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       inkscape:export-ydpi="270"
+       inkscape:export-xdpi="270"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/player-win2.png"
+       y="996.36218"
+       x="10"
+       height="2"
+       width="2"
+       id="rect4023"
+       style="fill:#88cf59;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <rect
+       style="fill:#88cf59;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4025"
+       width="2"
+       height="2"
+       x="4"
+       y="996.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/player-win2.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <path
+       style="fill:#88cf59;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 16,988.36218 0,16.00002 16,0 0,-16.00002 z m 2,2 12,0 0,12.00002 -12,0 z"
+       id="path4029"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/player-sad.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#88cf59;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4031"
+       width="2"
+       height="2"
+       x="20"
+       y="992.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/player-sad.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       inkscape:export-ydpi="270"
+       inkscape:export-xdpi="270"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/player-sad.png"
+       y="992.36218"
+       x="26"
+       height="2"
+       width="2"
+       id="rect4033"
+       style="fill:#88cf59;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <rect
+       inkscape:export-ydpi="270"
+       inkscape:export-xdpi="270"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/player-sad.png"
+       y="996.36218"
+       x="22"
+       height="2"
+       width="4"
+       id="rect4035"
+       style="fill:#88cf59;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <rect
+       style="fill:#88cf59;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4037"
+       width="2"
+       height="2"
+       x="26"
+       y="998.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/player-sad.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       inkscape:export-ydpi="270"
+       inkscape:export-xdpi="270"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/player-sad.png"
+       y="998.36218"
+       x="20"
+       height="2"
+       width="2"
+       id="rect4039"
+       style="fill:#88cf59;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <path
+       inkscape:export-ydpi="270"
+       inkscape:export-xdpi="270"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/player-win1.png"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4043"
+       d="m 32,988.36218 0,16.00002 16,0 0,-16.00002 z m 2,2 12,0 0,12.00002 -12,0 z"
+       style="fill:#88cf59;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <rect
+       inkscape:export-ydpi="270"
+       inkscape:export-xdpi="270"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/player-win1.png"
+       y="992.36218"
+       x="36"
+       height="2"
+       width="2"
+       id="rect4045"
+       style="fill:#88cf59;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <rect
+       style="fill:#88cf59;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4047"
+       width="2"
+       height="2"
+       x="42"
+       y="992.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/player-win1.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#88cf59;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4049"
+       width="6"
+       height="2"
+       x="37"
+       y="998.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/player-win1.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#88cf59;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4053"
+       width="8"
+       height="2"
+       x="36"
+       y="996.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/player-win1.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <path
+       style="fill:#88cf59;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 48,988.36218 0,16.00002 16,0 0,-16.00002 z m 2,2 12,0 0,12.00002 -12,0 z"
+       id="path4055"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/player-win2.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#88cf59;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4057"
+       width="2"
+       height="2"
+       x="52"
+       y="992.36218"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/player-win2.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       inkscape:export-ydpi="270"
+       inkscape:export-xdpi="270"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/player-win2.png"
+       y="992.36218"
+       x="58"
+       height="2"
+       width="2"
+       id="rect4059"
+       style="fill:#88cf59;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <rect
+       inkscape:export-ydpi="270"
+       inkscape:export-xdpi="270"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/player-win2.png"
+       y="998.36218"
+       x="53"
+       height="1.0000203"
+       width="6"
+       id="rect4061"
+       style="fill:#88cf59;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <rect
+       inkscape:export-ydpi="270"
+       inkscape:export-xdpi="270"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/player-win2.png"
+       y="996.36218"
+       x="52"
+       height="2"
+       width="8"
+       id="rect4063"
+       style="fill:#88cf59;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <rect
+       inkscape:export-ydpi="270"
+       inkscape:export-xdpi="270"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/brick.png"
+       transform="scale(1,-1)"
+       style="fill:#696969;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4114"
+       width="4"
+       height="2"
+       x="4"
+       y="-984.36218" />
+    <path
+       inkscape:export-ydpi="270"
+       inkscape:export-xdpi="270"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/arrow.png"
+       style="fill:#ff4646;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 48,972.3622 0,16 16,0 0,-16 z"
+       id="path3221"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <rect
+       inkscape:export-ydpi="270"
+       inkscape:export-xdpi="270"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/clock.png"
+       transform="matrix(0,1,-1,0,0,0)"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3223"
+       width="2"
+       height="9.9999981"
+       x="979.36218"
+       y="-61" />
+    <rect
+       inkscape:export-ydpi="270"
+       inkscape:export-xdpi="270"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/brick.png"
+       transform="scale(1,-1)"
+       y="-974.36218"
+       x="8"
+       height="2"
+       width="4"
+       id="rect3239"
+       style="fill:#696969;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <rect
+       inkscape:export-ydpi="270"
+       inkscape:export-xdpi="270"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/brick.png"
+       style="fill:#696969;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3241"
+       width="4"
+       height="2"
+       x="8"
+       y="-978.36218"
+       transform="scale(1,-1)" />
+    <rect
+       inkscape:export-ydpi="270"
+       inkscape:export-xdpi="270"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/brick.png"
+       transform="scale(1,-1)"
+       y="-982.36218"
+       x="8"
+       height="2"
+       width="4"
+       id="rect3245"
+       style="fill:#696969;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <rect
+       inkscape:export-ydpi="270"
+       inkscape:export-xdpi="270"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/brick.png"
+       transform="scale(1,-1)"
+       y="-986.36218"
+       x="0"
+       height="2"
+       width="4"
+       id="rect3251"
+       style="fill:#696969;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <rect
+       y="-988.36218"
+       x="4"
+       height="2"
+       width="4"
+       id="rect3253"
+       style="fill:#696969;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       transform="scale(1,-1)"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/brick.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       style="fill:#696969;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3255"
+       width="4"
+       height="2"
+       x="8"
+       y="-986.36218"
+       transform="scale(1,-1)"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/brick.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <rect
+       inkscape:export-ydpi="270"
+       inkscape:export-xdpi="270"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/brick.png"
+       transform="scale(1,-1)"
+       y="-976.36218"
+       x="12"
+       height="2"
+       width="4"
+       id="rect3257"
+       style="fill:#696969;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <rect
+       inkscape:export-ydpi="270"
+       inkscape:export-xdpi="270"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/brick.png"
+       style="fill:#696969;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3259"
+       width="4"
+       height="2"
+       x="12"
+       y="-980.36218"
+       transform="scale(1,-1)" />
+    <rect
+       inkscape:export-ydpi="270"
+       inkscape:export-xdpi="270"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/brick.png"
+       transform="scale(1,-1)"
+       y="-984.36218"
+       x="12"
+       height="2"
+       width="4"
+       id="rect3261"
+       style="fill:#696969;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <rect
+       style="fill:#696969;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3263"
+       width="4"
+       height="2"
+       x="12"
+       y="-988.36218"
+       transform="scale(1,-1)"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/brick.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <path
+       inkscape:export-ydpi="270"
+       inkscape:export-xdpi="270"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/brick.png"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path3225"
+       d="m 0,972.3622 0,4 8,0 0,-4 z m 1,1 6,0 0,2 -6,0 z"
+       style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <path
+       style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 8,972.3622 0,4 8,0 0,-4 z m 1,1 6,0 0,2 -6,0 z"
+       id="path3335"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/brick.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <path
+       inkscape:export-ydpi="270"
+       inkscape:export-xdpi="270"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/brick.png"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path3337"
+       d="m 4,976.3622 0,4 8,0 0,-4 z m 1,1 6,0 0,2 -6,0 z"
+       style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <path
+       style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 0,980.3622 0,4 8,0 0,-4 z m 1,1 6,0 0,2 -6,0 z"
+       id="path3339"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/brick.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <path
+       inkscape:export-ydpi="270"
+       inkscape:export-xdpi="270"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/brick.png"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path3341"
+       d="m 8,980.3622 0,4 8,0 0,-4 z m 1,1 6,0 0,2 -6,0 z"
+       style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    <path
+       style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 4,984.3622 0,4 8,0 0,-4 z m 1,1 6,0 0,2 -6,0 z"
+       id="path3343"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/brick.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <path
+       style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="M 0 84 L 0 85 L 3 85 L 3 87 L 0 87 L 0 88 L 4 88 L 4 84 L 0 84 z "
+       transform="translate(0,892.36218)"
+       id="path3345"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/brick.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <path
+       id="path3350"
+       d="m 0,984.3622 0,1 3,0 0,2 -3,0 0,1 4,0 0,-4 -4,0 z"
+       style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/brick.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <path
+       id="path3352"
+       d="m 16,976.3622 0,1 -3,0 0,2 3,0 0,1 -4,0 0,-4 4,0 z"
+       style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/brick.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 16,984.36222 0,1 -3,0 0,2 3,0 0,1 -4,0 0,-4 4,0 z"
+       id="path3354"
+       inkscape:export-filename="/home/qubodup/gemdropx-0.9/data/images/brick.png"
+       inkscape:export-xdpi="270"
+       inkscape:export-ydpi="270" />
+  </g>
+</svg>

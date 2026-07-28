@@ -1,0 +1,22 @@
+== The Cyberwand ==
+
+The cyberwand is a standard hacker's device to [do stuff]. It comes in three
+standard issues: lvl1, lvl2, lvl3. Hackers have illegally bypassed safety
+precautions to enhance lvl3 via chip tuning and call it "lvl4". Megacorp
+laboratories have produced a further enhanced but yet untested version 5,
+informally called "Cybermorph". Rumors about a legendary unknown hacker who
+accidentally created the wand during the process of de-programming a FORTUNE50
+corporation's entire intranet are being spread to lure professional
+underground hackers to test the Cybermorph wand.
+
+== Art history ==
+
+Made after kiba mentioned "cyberpunk" without any artistical guidance
+at <http://forum.freegamedev.net/viewtopic.php?f=22&t=307> and trying to test
+Decker <http://sourceforge.net/projects/decker/> (recording a video in the
+process <http://www.youtube.com/watch?v=ZW2MVZYvhT4>).
+
+== Credits, legal ==
+
+made by qubodup <qubodup@gmail.com>
+released under cc0 <http://creativecommons.org/publicdomain/zero/1.0/> aka PD
